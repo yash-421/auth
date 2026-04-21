@@ -10,7 +10,7 @@ class Settings(BaseSettings):
     POSTGRES_SERVER: str = 'localhost'
     POSTGRES_PORT: int = 5432
     POSTGRES_USER: str = 'postgres'
-    POSTGRES_PASSWORD: str = 'postgres'
+    POSTGRES_PASSWORD: str = 'yash123'
     POSTGRES_DB: str = 'auth_db'
 
     SECRET_KEY: str = 'CHANGE_ME'
